@@ -2,6 +2,8 @@
 
 Interactive terminal-styled session lock screen plugin for Omarchy Linux (Quickshell / Hyprland).
 
+![Terminal Lock Screen Preview](preview.png)
+
 ---
 
 ## Features
